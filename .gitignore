@@ -1,0 +1,16 @@
+*/bin/*
+*/obj/*
+*.suo
+*.pdb
+*.csproj.user
+*.pubxml.user
+*.Publish.xml
+*.pubxml
+*.orig
+*.DotSettings.user
+/packages/
+*/node_modules/
+!packages/repositories.config
+.vs/
+_ReSharper.Caches/
+*.log
