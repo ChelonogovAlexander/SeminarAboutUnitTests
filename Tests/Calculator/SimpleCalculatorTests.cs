@@ -18,7 +18,7 @@ namespace Tests.Calculator
 
         /// <summary> Проверяем, что возвращается 0, если складываем отрицательное число и модуль отрицательного числа </summary>
         [Test]
-        public void Test_Sum_Return_0_If_Sum_Negative_Number_With_ModuleOfNegative()
+        public void Test_Sum_Return_0_If_Sum_Negative_Number_With_AbsOfNegative()
         {
             //Arrange
             var firstArgument = -123;
