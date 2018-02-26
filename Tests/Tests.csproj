@@ -58,6 +58,7 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
+    <Compile Include="Calculator\SimpleCalculatorTests.cs" />
     <Compile Include="CoolServiceTests\V5\CoolServiceTests.cs" />
     <Compile Include="CoolServiceTests\V4\CoolServiceTests.cs" />
     <Compile Include="CoolServiceTests\V3\CoolServiceTests.cs" />
